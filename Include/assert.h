@@ -1,0 +1,1 @@
+#define assert(e) { if (!(e)) { printf("falha em assertion\n"); abort(); } }
